@@ -1,0 +1,19 @@
+---
+title: "Curriculum Vitae"
+resources:
+  - "cv.pdf"
+---
+
+```{=html}
+<p style="text-align: center;">
+  <a class="btn btn-primary btn-lg" href="cv.pdf" download="Riya_Kona_CV.pdf">
+    Download my CV
+  </a>
+</p>
+
+<iframe
+  src="cv.pdf"
+  title="Riya Kona's Curriculum Vitae"
+  style="width: 100%; height: 900px; border: none;">
+</iframe>
+```

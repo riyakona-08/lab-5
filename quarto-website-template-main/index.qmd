@@ -1,0 +1,42 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/IMG_9660.jpg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/riyakona_08/
+    - icon: envelope
+      text: Email
+      href: "mailto:rxk836@case.edu"
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+ Hi, I'm Riya!
+
+Welcome to my website! I’m a biology student at Case Western Reserve University pursuing a minor in economics on the pre-dental track. I am also a candidate for the Master's of Science in biostatistics on the track of Health Care Analytics. Originally from Portland, Oregon, I love the outdoors, try new restaurants, and play badminton! 
+
+## Education and Research
+
+At Case Western Reserve, I’m building a foundation in biology while developing skills in data analysis through coursework in statistics and programming.
+
+I also conduct oral microbiology research, studying how bacteria in the mouth interact with one another. My work focuses on hydrogen peroxide and L-lactate production by oral streptococci and how these metabolites may influence a bacterium associated with periodontal disease. This experience allows me to connect my interest in microbiology with my goal of pursuing dentistry.
+
+## Beyond the Classroom
+
+Outside of academics, I’m involved in the Pre-Dental Society, Naach Di Cleveland, and Alpha Gamma Delta. Through leadership, volunteering, and clinical experiences, I enjoy working with others and contributing to my community.
+
+My experiences in dental assisting and shadowing have strengthened my interest in patient care, while teaching swimming has helped me develop patience and adapt how I communicate with different people.
+
+## Explore My Work
+
+You can learn more about my work on the [Research & Projects](projects/index.qmd) and [Experience](experience/index.qmd) pages, or download my CV from the [CV page](cv/index.qmd).
+
+Feel free to [email me](mailto:rxk836@case.edu)—I’d be happy to connect!
+
+
